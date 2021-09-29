@@ -17,34 +17,34 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
+- title: Birth
   title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+  date: August 2006
+  subtitle: 
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: 
+    - tag: 
+    - tag: 
+    - tag:
   timeline-side: right
 
-- title: Google
+- title: 2nd Grade
   title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+  date: I don't know
+  subtitle: Ceo of Amazon
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: 
+    - tag: 
+    - tag: 
   timeline-side: right
 
-- title: Super University
+- title: Whitney High School
   title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+  date: 2018
+  subtitle: Student
   timeline-side: left
 
-- title: Facebook
+- title: President of the United States
   title-url: https://example.com/
   date: Sep 2017 - Mar 2019
   subtitle: Front-End Developer as Intern
@@ -54,8 +54,8 @@
     - tag: Javascript
   timeline-side: right
 
-- title: Super University
+- title: Future Dead
   title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+  date: idk maybe 2022
+  subtitle: Ruler of the World
   timeline-side: left
